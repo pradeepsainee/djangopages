@@ -1,0 +1,2 @@
+# djangopages
+Simple Django App
